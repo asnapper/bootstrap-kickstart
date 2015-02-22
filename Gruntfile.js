@@ -20,7 +20,7 @@ module.exports = function(grunt) {
 
 		// Configurable paths
 		config: {
-			dist: 'dist',
+			dist: 'public',
 			reports: 'reports',
 			docs: 'docs'
 		},
